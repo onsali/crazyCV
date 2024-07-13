@@ -1,5 +1,5 @@
 # Crazy CV: A Moving image, Security/Privacy Art Installation
-#### OpenCV/Creative Coding-based narration on dumb AI; translation of human lives into data-points, and with visual flair.
+#### OpenCV/Creative Coding-based narration on dumb AI; an anti-interactive arttech installation expoloring the machinic translation of human lives into data-points with visual flair.
 
 CrazyCV is an installation that explores the dark side of AI-based surveillance, traversing the gray boundaries between privacy and accessibility in a hyper-connected world. Using OpenCV's image and object detection the entire setup creates an unsettling atmosphere, suggesting that we're always being watched and reduced to mere data points in a vast, impersonal database.
 
