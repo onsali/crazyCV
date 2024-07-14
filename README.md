@@ -13,13 +13,19 @@ Research on FRT (Facial Recognition Technology) was performed, excerpts from unl
 "CrazyCV" invites visitors to reflect on the implications of a world where technology monitors our every move. It questions the legitimacy of AI-based surveillance, highlighting the risks of placing too much trust in flawed systems. Ultimately, it serves as a stark reminder that even the most advanced technology can be manipulated, leading to a future where our identities and privacy are at constant risk of being compromised.
 
 ## Media
+<img src="https://imgur.com/Mu4Om2W.jpeg" width=40%>
+
 *Setup with Articulated Webcam (AI Tracking), letters to the Government on usage of FRT(Clearview)*
+
+<img src="https://imgur.com/WxOegKB.jpeg" width=40%>
 
 *OutaBoxed Leaked Facial Datadump information, ICE Documentation on unlawful usage of FRT by Immigration Officers*
 
-*Live 4K stylized feed with Object/Facial Detection in OpenCV. Glitching dialogue on screen about the AI if you have taken your ‘electronic supplements’. Watchdogs style profiler with (fake) Sensitive Data pulled from fakenamegenerator API*
+<img src="https://imgur.com/bp9crh1.jpeg" width=40%>
 
-## Resources
-todo:
-- [ ] add media
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVqZ3o3ZDI4Mms2czNodWVpbzBoOTkxY2MxMzAzbWFiajBiZzM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7k8W7eP3GgXPvnyFy/giphy.gif">
+
+*Live 4K stylized feed with Object/Facial Detection in OpenCV, and motion-tracking. Glitching dialogue on screen about the AI if you have taken your ‘electronic supplements’. Watchdogs style profiler with (fake) Sensitive Data pulled from fakenamegenerator API*
+
+## todo
 - [ ] add references
