@@ -9,14 +9,14 @@ As visitors enter; outlines of their bodies, clothing, and images are processed 
 The installation embodies the what-could-be-chaotic side of technology by embracing glitches,distortions, and randomization. A synthetic (digital on-screen) voice adds a dystopian touch, with phrases like "Have you taken your daily dose of electronic supplements?" and sudden outbursts that interrupt the program. The voice falters, stutters, and glitches, as if losing control. This erratic behavior amplifies the sense of disarray, and taps into a little dystopia.
 
 ### Facial Recognition Technology (FRT)
-Research on FRT (Facial Recognition Technology) was performed, excerpts from unlawful U.S Government & ICE (Immigration Customs Enforcement), Recent facial & biometric data dumps from companies illegally collecting FRT data. Further research, and exposition on the ideas of “Who Trains the AI”; training of these models which are in such high demand that the MAANG companies’ processing powers cannot keep up; leaving them to resort to “hiring” workers in South East Asian countries to laboriously train their models was provided.
+Research on FRT (Facial Recognition Technology) was performed, Recent facial & biometric data dumps from companies illegally collecting FRT data. Further research, and exposition on the ideas of “Who Trains the AI”; training of these models which are in such high demand that the MAANG companies’ processing powers cannot keep up; leaving them to resort to “hiring” workers in South East Asian countries to laboriously train their models was provided.
 
 "CrazyCV" invites visitors to reflect on the implications of a world where technology monitors our every move. It questions the legitimacy of AI-based surveillance, highlighting the risks of placing too much trust in flawed systems. Ultimately, it serves as a stark reminder that even the most advanced technology can be manipulated, leading to a future where our identities and privacy are at constant risk of being compromised.
 
 ## Media
 <img src="https://imgur.com/Mu4Om2W.jpeg" width=40%>
 
-*Setup with Articulated Webcam (AI Tracking), letters to the Government on usage of FRT(Clearview)*
+*Setup with Articulated Webcam (AI Tracking)
 
 <img src="https://imgur.com/WxOegKB.jpeg" width=40%>
 
