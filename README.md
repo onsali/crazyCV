@@ -20,7 +20,7 @@ Research on FRT (Facial Recognition Technology) was performed, excerpts from unl
 
 <img src="https://imgur.com/WxOegKB.jpeg" width=40%>
 
-*OutaBoxed Leaked Facial Datadump information, ICE Documentation on unlawful usage of FRT by Immigration Officers*
+*OutaBoxed Leaked Facial Datadump information
 
 <img src="https://imgur.com/bp9crh1.jpeg" width=40%>
 
